@@ -52,6 +52,8 @@ CubeSuite is built with:
 Special thanks to the [cuvave-midi](https://github.com/pferreir/cuvave-midi) project for its
 research and implementation of the Cube Baby communication protocol.
 
+
+
 ## License
 
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE)
